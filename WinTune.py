@@ -61,8 +61,8 @@ root = tk.Tk()
 root.title("Manutenção do Sistema")
 root.geometry("800x800")  # Aumente o tamanho da janela para garantir espaço suficiente
 
-# Definindo ícones
-root.iconbitmap(".\\assets\icons\\BlueRabbit.ico")
+# Definindo ícones -- opicional
+#root.iconbitmap(".\\assets\icons\\icon_desejado.ico")
 
 
 # Estilos
