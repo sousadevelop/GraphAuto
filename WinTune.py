@@ -59,10 +59,11 @@ def defragment_drive():
 # Configurando a interface gráfica
 root = tk.Tk()
 root.title("Manutenção do Sistema")
-root.geometry("400x400")  # Aumente o tamanho da janela para garantir espaço suficiente
+root.geometry("800x800")  # Aumente o tamanho da janela para garantir espaço suficiente
 
 # Definindo ícones
-root.iconbitmap('C:\\Users\\victt\\OneDrive\\Imagens\\MascotesAI\\hacker-sem-fundo.ico')
+root.iconbitmap(".\\assets\icons\\BlueRabbit.ico")
+
 
 # Estilos
 style = ttk.Style()
