@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['WinTune.py'],
+    ['Win\\Optimization_of_Machine_Performance\\WinTune.py'],
     pathex=[],
     binaries=[],
     datas=[],
