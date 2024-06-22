@@ -113,3 +113,7 @@ btn_exit = ttk.Button(frame, text="Sair", command=root.quit)
 btn_exit.grid(row=4, column=0, pady=20, sticky="ew")
 
 root.mainloop()
+
+####################################################################
+##9350C4DD26BC9EE69769E4F51F71ADFBC721BCEF378F0BFEE31BDA153E987F88##
+####################################################################

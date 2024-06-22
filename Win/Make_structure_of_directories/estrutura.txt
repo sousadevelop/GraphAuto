@@ -1,0 +1,27 @@
+Course/
+    docs/
+        lectures/
+            lecture1.md
+            lecture2.md
+        projects/
+            project1.md
+            project2.md
+    scripts/
+        examples/
+            example1.ps1
+        exercises/
+            lecture1/
+                exercise1.ps1
+        projects/
+            project1/
+                script.ps1
+            project2/
+    resources/
+        slides/
+            lecture1.pptx
+        links.md
+        references.md
+    README.md
+    CONTRIBUTING.md
+    LICENSE
+    CHANGELOG.md
